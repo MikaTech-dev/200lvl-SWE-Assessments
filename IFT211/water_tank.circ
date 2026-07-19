@@ -19,7 +19,7 @@
   <lib desc="#BFH-Praktika" name="10"/>
   <lib desc="#Input/Output-Extra" name="11"/>
   <lib desc="#Soc" name="12"/>
-  <main name="thermal_io"/>
+  <main name="main"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
     <a name="simlimit" val="1000"/>
@@ -159,7 +159,6 @@
     <wire from="(1070,310)" to="(1070,430)"/>
     <wire from="(1070,310)" to="(1110,310)"/>
     <wire from="(1080,160)" to="(1080,230)"/>
-    <wire from="(1080,230)" to="(1190,230)"/>
     <wire from="(1090,140)" to="(1090,240)"/>
     <wire from="(1090,240)" to="(1200,240)"/>
     <wire from="(1090,360)" to="(1090,690)"/>
@@ -170,7 +169,6 @@
     <wire from="(1120,130)" to="(1200,130)"/>
     <wire from="(1130,150)" to="(1130,200)"/>
     <wire from="(1130,150)" to="(1190,150)"/>
-    <wire from="(1190,210)" to="(1190,230)"/>
     <wire from="(1200,130)" to="(1200,150)"/>
     <wire from="(1200,210)" to="(1200,240)"/>
     <wire from="(1210,210)" to="(1210,250)"/>
